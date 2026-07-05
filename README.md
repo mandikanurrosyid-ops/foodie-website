@@ -9,7 +9,7 @@ Website makanan sederhana menggunakan PHP, CSS, JavaScript, dan penyimpanan data
 3. Jalankan Apache.
 4. Buka `http://localhost/foodie-website`.
 
-## Screenshots
+## Page view
 
 ### Halaman Beranda
 ![Beranda](Screenshot-website/beranda.png)
